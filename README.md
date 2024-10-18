@@ -1,4 +1,6 @@
 Creative Upaay React JS Assignment
+Scan the QR code to view in phone :
+<img src ="qrcreative upay.JPG" alt="img"/>
 Objective:
 Implement a dashboard UI based on the provided Figma file. The goal is to replicate the design as closely as possible and include specific functionalities.
 Tools & Technologies:
