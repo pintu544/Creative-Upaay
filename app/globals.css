@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #ffff;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #000000;
+  border-radius: 1rem;
+}
+
+@layer components {
+  .smIcon {
+    @apply w-4 h-4;
+  }
+  .mdIcon {
+    @apply w-6 h-6;
+  }
+  .lgIcon {
+    @apply w-8 h-8;
+  }
+}
